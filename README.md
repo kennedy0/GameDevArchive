@@ -1,2 +1,2 @@
 # GameDevArchive
-An archive of old game development projects.
+An archive of old Ludum Dare games.
